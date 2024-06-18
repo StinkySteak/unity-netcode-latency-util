@@ -1,0 +1,12 @@
+{
+  "name": "com.stinkysteak.netcode-latency-utl",
+  "version": "0.1.0",
+  "displayName": "Netcode Latency Utilities",
+  "description": "Netcode Latency Utilities",
+  "unity": "2021.3",
+  "author": {
+    "name": "Stinkysteak",
+    "email": "stinkysteak@steaksoft.com",
+    "url": "https://steaksoft.net"
+  }
+}
